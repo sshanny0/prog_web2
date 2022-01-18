@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Kuis_Array2\Kuis_Array2\bin\Debug\Kuis_Array2.exe.config
+C:\Users\User\source\repos\Kuis_Array2\Kuis_Array2\bin\Debug\Kuis_Array2.exe
+C:\Users\User\source\repos\Kuis_Array2\Kuis_Array2\bin\Debug\Kuis_Array2.pdb
+C:\Users\User\source\repos\Kuis_Array2\Kuis_Array2\obj\Debug\Kuis_Array2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Kuis_Array2\Kuis_Array2\obj\Debug\Kuis_Array2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kuis_Array2\Kuis_Array2\obj\Debug\Kuis_Array2.exe
+C:\Users\User\source\repos\Kuis_Array2\Kuis_Array2\obj\Debug\Kuis_Array2.pdb

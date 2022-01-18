@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Hal65_69\Hal65_69\bin\Debug\Hal65_69.exe.config
+C:\Users\User\source\repos\Hal65_69\Hal65_69\bin\Debug\Hal65_69.exe
+C:\Users\User\source\repos\Hal65_69\Hal65_69\bin\Debug\Hal65_69.pdb
+C:\Users\User\source\repos\Hal65_69\Hal65_69\obj\Debug\Hal65_69.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hal65_69\Hal65_69\obj\Debug\Hal65_69.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hal65_69\Hal65_69\obj\Debug\Hal65_69.exe
+C:\Users\User\source\repos\Hal65_69\Hal65_69\obj\Debug\Hal65_69.pdb

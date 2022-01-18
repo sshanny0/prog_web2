@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PDDP_FORUM1\PDDP_FORUM1\obj\Debug\PDDP_FORUM1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PDDP_FORUM1\PDDP_FORUM1\obj\Debug\PDDP_FORUM1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDDP_FORUM1\PDDP_FORUM1\bin\Debug\PDDP_FORUM1.exe.config
+C:\Users\User\source\repos\PDDP_FORUM1\PDDP_FORUM1\bin\Debug\PDDP_FORUM1.exe
+C:\Users\User\source\repos\PDDP_FORUM1\PDDP_FORUM1\bin\Debug\PDDP_FORUM1.pdb
+C:\Users\User\source\repos\PDDP_FORUM1\PDDP_FORUM1\obj\Debug\PDDP_FORUM1.exe
+C:\Users\User\source\repos\PDDP_FORUM1\PDDP_FORUM1\obj\Debug\PDDP_FORUM1.pdb

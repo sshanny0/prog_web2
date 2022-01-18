@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\nyoba\nyoba\bin\Debug\nyoba.exe.config
+C:\Users\User\source\repos\nyoba\nyoba\bin\Debug\nyoba.exe
+C:\Users\User\source\repos\nyoba\nyoba\bin\Debug\nyoba.pdb
+C:\Users\User\source\repos\nyoba\nyoba\obj\Debug\nyoba.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nyoba\nyoba\obj\Debug\nyoba.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nyoba\nyoba\obj\Debug\nyoba.exe
+C:\Users\User\source\repos\nyoba\nyoba\obj\Debug\nyoba.pdb

@@ -1,0 +1,10 @@
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\bin\Debug\Tugas_Online.exe.config
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\bin\Debug\Tugas_Online.exe
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\bin\Debug\Tugas_Online.pdb
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\obj\Debug\Tugas_Online.csprojAssemblyReference.cache
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\obj\Debug\Tugas_Online.Form1.resources
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\obj\Debug\Tugas_Online.Properties.Resources.resources
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\obj\Debug\Tugas_Online.csproj.GenerateResource.cache
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\obj\Debug\Tugas_Online.csproj.CoreCompileInputs.cache
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\obj\Debug\Tugas_Online.exe
+D:\HAN\Coding\Visual Studio C#\Tugas_Online\Tugas_Online\obj\Debug\Tugas_Online.pdb

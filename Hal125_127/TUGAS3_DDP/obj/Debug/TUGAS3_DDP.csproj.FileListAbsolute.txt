@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TUGAS3_DDP\TUGAS3_DDP\obj\Debug\TUGAS3_DDP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TUGAS3_DDP\TUGAS3_DDP\obj\Debug\TUGAS3_DDP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TUGAS3_DDP\TUGAS3_DDP\bin\Debug\TUGAS3_DDP.exe.config
+C:\Users\User\source\repos\TUGAS3_DDP\TUGAS3_DDP\bin\Debug\TUGAS3_DDP.exe
+C:\Users\User\source\repos\TUGAS3_DDP\TUGAS3_DDP\bin\Debug\TUGAS3_DDP.pdb
+C:\Users\User\source\repos\TUGAS3_DDP\TUGAS3_DDP\obj\Debug\TUGAS3_DDP.exe
+C:\Users\User\source\repos\TUGAS3_DDP\TUGAS3_DDP\obj\Debug\TUGAS3_DDP.pdb

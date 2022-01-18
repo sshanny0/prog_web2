@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TugasHANNY_181\TugasHANNY_181\obj\Debug\TugasHANNY_181.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TugasHANNY_181\TugasHANNY_181\obj\Debug\TugasHANNY_181.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TugasHANNY_181\TugasHANNY_181\bin\Debug\TugasHANNY_181.exe.config
+C:\Users\User\source\repos\TugasHANNY_181\TugasHANNY_181\bin\Debug\TugasHANNY_181.exe
+C:\Users\User\source\repos\TugasHANNY_181\TugasHANNY_181\bin\Debug\TugasHANNY_181.pdb
+C:\Users\User\source\repos\TugasHANNY_181\TugasHANNY_181\obj\Debug\TugasHANNY_181.exe
+C:\Users\User\source\repos\TugasHANNY_181\TugasHANNY_181\obj\Debug\TugasHANNY_181.pdb

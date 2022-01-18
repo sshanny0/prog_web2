@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TUGAS4\TUGAS4\obj\Debug\TUGAS4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TUGAS4\TUGAS4\obj\Debug\TUGAS4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TUGAS4\TUGAS4\bin\Debug\TUGAS4.exe.config
+C:\Users\User\source\repos\TUGAS4\TUGAS4\bin\Debug\TUGAS4.exe
+C:\Users\User\source\repos\TUGAS4\TUGAS4\bin\Debug\TUGAS4.pdb
+C:\Users\User\source\repos\TUGAS4\TUGAS4\obj\Debug\TUGAS4.exe
+C:\Users\User\source\repos\TUGAS4\TUGAS4\obj\Debug\TUGAS4.pdb

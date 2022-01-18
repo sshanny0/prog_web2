@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LinkedList_SDA\LinkedList_SDA\bin\Debug\LinkedList_SDA.exe.config
+C:\Users\User\source\repos\LinkedList_SDA\LinkedList_SDA\bin\Debug\LinkedList_SDA.exe
+C:\Users\User\source\repos\LinkedList_SDA\LinkedList_SDA\bin\Debug\LinkedList_SDA.pdb
+C:\Users\User\source\repos\LinkedList_SDA\LinkedList_SDA\obj\Debug\LinkedList_SDA.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LinkedList_SDA\LinkedList_SDA\obj\Debug\LinkedList_SDA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LinkedList_SDA\LinkedList_SDA\obj\Debug\LinkedList_SDA.exe
+C:\Users\User\source\repos\LinkedList_SDA\LinkedList_SDA\obj\Debug\LinkedList_SDA.pdb
